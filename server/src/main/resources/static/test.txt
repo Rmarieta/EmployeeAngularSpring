@@ -1,0 +1,31 @@
+{
+    "email": "blastek@gmail.com",
+    "imageUrl": "https://bootdey.com/img/Content/avatar/avatar1.png",
+    "jobTitle": "JavaScript",
+    "name": "Daniel Craig",
+    "phone": "4570090332"
+},
+
+{
+    "email": "kakou@gmail.com",
+    "imageUrl": "https://bootdey.com/img/Content/avatar/avatar1.png",
+    "jobTitle": "DevOps",
+    "name": "John Terry",
+    "phone": "4570123998"
+},
+
+{
+    "email": "tublek@gmail.com",
+    "imageUrl": "https://bootdey.com/img/Content/avatar/avatar1.png",
+    "jobTitle": "ML Engineer",
+    "name": "Steven Gerrard",
+    "phone": "4573405989"
+},
+
+{
+    "email": "enmode@gmail.com",
+    "imageUrl": "https://bootdey.com/img/Content/avatar/avatar1.png",
+    "jobTitle": "Data Scientist",
+    "name": "Didier Drogba",
+    "phone": "4572298701"
+}
